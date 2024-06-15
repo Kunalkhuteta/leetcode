@@ -13,6 +13,9 @@ public:
             i+=dress-avg;
             ans=max({ans, abs(i), dress-avg});
             // abs() is used to return absolute value of number
+            // ex->
+            //     negative number =any number * -1
+            //     absolute value of positive number or zero is that of nunmber itself
         }
         return ans;
     }
