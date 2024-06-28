@@ -1,7 +1,11 @@
 class Solution {
 public:
     int maximumXOR(vector<int>& nums) {
-        
-        return reduce(nums.begin(), nums.end(), 0, bit_or());
+        int ans=0;
+        for(int i = 0; i < nums.size(); i++){
+            ans |= nums[i];
+        }
+        return ans;
+        // return reduce(nums.begin(), nums.end(), 0, bit_or());
     }
 };
