@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1293-three-consecutive-odds](https://github.com/Kunalkhuteta/leetcode/tree/master/1293-three-consecutive-odds) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Kunalkhuteta/leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Kunalkhuteta/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2621-find-xor-beauty-of-array](https://github.com/Kunalkhuteta/leetcode/tree/master/2621-find-xor-beauty-of-array) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Kunalkhuteta/leetcode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 ## Bit Manipulation
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Kunalkhuteta/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Kunalkhuteta/leetcode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 ## Sorting
 |  |
@@ -29,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Kunalkhuteta/leetcode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Kunalkhuteta/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 <!---LeetCode Topics End-->
