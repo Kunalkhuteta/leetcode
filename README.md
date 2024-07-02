@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Kunalkhuteta/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/Kunalkhuteta/leetcode/tree/master/1293-three-consecutive-odds) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Kunalkhuteta/leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Kunalkhuteta/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Kunalkhuteta/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Kunalkhuteta/leetcode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 ## Prefix Sum
 |  |
@@ -35,4 +37,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Kunalkhuteta/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+## Hash Table
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Kunalkhuteta/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Kunalkhuteta/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Kunalkhuteta/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
