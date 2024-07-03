@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1617-stone-game-iv](https://github.com/Kunalkhuteta/leetcode/tree/master/1617-stone-game-iv) |
 | [2621-find-xor-beauty-of-array](https://github.com/Kunalkhuteta/leetcode/tree/master/2621-find-xor-beauty-of-array) |
 ## Greedy
 |  |
@@ -49,4 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kunalkhuteta/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1617-stone-game-iv](https://github.com/Kunalkhuteta/leetcode/tree/master/1617-stone-game-iv) |
+## Game Theory
+|  |
+| ------- |
+| [1617-stone-game-iv](https://github.com/Kunalkhuteta/leetcode/tree/master/1617-stone-game-iv) |
 <!---LeetCode Topics End-->
