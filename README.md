@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kunalkhuteta/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Kunalkhuteta/leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Binary Search
 |  |
 | ------- |
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/Kunalkhuteta/leetcode/tree/master/1617-stone-game-iv) |
+## String
+|  |
+| ------- |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Kunalkhuteta/leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 <!---LeetCode Topics End-->
