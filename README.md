@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Kunalkhuteta/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2621-find-xor-beauty-of-array](https://github.com/Kunalkhuteta/leetcode/tree/master/2621-find-xor-beauty-of-array) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Kunalkhuteta/leetcode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
+| [2916-check-if-it-is-possible-to-split-array](https://github.com/Kunalkhuteta/leetcode/tree/master/2916-check-if-it-is-possible-to-split-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Kunalkhuteta/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Kunalkhuteta/leetcode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
+| [2916-check-if-it-is-possible-to-split-array](https://github.com/Kunalkhuteta/leetcode/tree/master/2916-check-if-it-is-possible-to-split-array) |
 ## Sorting
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/Kunalkhuteta/leetcode/tree/master/1617-stone-game-iv) |
+| [2916-check-if-it-is-possible-to-split-array](https://github.com/Kunalkhuteta/leetcode/tree/master/2916-check-if-it-is-possible-to-split-array) |
 ## Game Theory
 |  |
 | ------- |
