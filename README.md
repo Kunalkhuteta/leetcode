@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2621-find-xor-beauty-of-array](https://github.com/Kunalkhuteta/leetcode/tree/master/2621-find-xor-beauty-of-array) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Kunalkhuteta/leetcode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2916-check-if-it-is-possible-to-split-array](https://github.com/Kunalkhuteta/leetcode/tree/master/2916-check-if-it-is-possible-to-split-array) |
+| [3104-happy-students](https://github.com/Kunalkhuteta/leetcode/tree/master/3104-happy-students) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kunalkhuteta/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Kunalkhuteta/leetcode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
+| [3104-happy-students](https://github.com/Kunalkhuteta/leetcode/tree/master/3104-happy-students) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -66,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Kunalkhuteta/leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+## Enumeration
+|  |
+| ------- |
+| [3104-happy-students](https://github.com/Kunalkhuteta/leetcode/tree/master/3104-happy-students) |
 <!---LeetCode Topics End-->
