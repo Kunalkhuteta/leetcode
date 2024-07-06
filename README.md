@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Kunalkhuteta/leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Kunalkhuteta/leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Enumeration
 |  |
 | ------- |
