@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/Kunalkhuteta/leetcode/tree/master/1617-stone-game-iv) |
+| [1642-water-bottles](https://github.com/Kunalkhuteta/leetcode/tree/master/1642-water-bottles) |
 | [2621-find-xor-beauty-of-array](https://github.com/Kunalkhuteta/leetcode/tree/master/2621-find-xor-beauty-of-array) |
 ## Greedy
 |  |
@@ -81,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kunalkhuteta/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+## Simulation
+|  |
+| ------- |
+| [1642-water-bottles](https://github.com/Kunalkhuteta/leetcode/tree/master/1642-water-bottles) |
 <!---LeetCode Topics End-->
