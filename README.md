@@ -28,12 +28,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Kunalkhuteta/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Kunalkhuteta/leetcode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2916-check-if-it-is-possible-to-split-array](https://github.com/Kunalkhuteta/leetcode/tree/master/2916-check-if-it-is-possible-to-split-array) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kunalkhuteta/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kunalkhuteta/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Kunalkhuteta/leetcode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [3104-happy-students](https://github.com/Kunalkhuteta/leetcode/tree/master/3104-happy-students) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kunalkhuteta/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kunalkhuteta/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kunalkhuteta/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -69,8 +72,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Kunalkhuteta/leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Kunalkhuteta/leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kunalkhuteta/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Enumeration
 |  |
 | ------- |
 | [3104-happy-students](https://github.com/Kunalkhuteta/leetcode/tree/master/3104-happy-students) |
+## Counting
+|  |
+| ------- |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kunalkhuteta/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 <!---LeetCode Topics End-->
