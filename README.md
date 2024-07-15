@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Kunalkhuteta/leetcode/tree/master/0048-rotate-image) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kunalkhuteta/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/Kunalkhuteta/leetcode/tree/master/1293-three-consecutive-odds) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Kunalkhuteta/leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Kunalkhuteta/leetcode/tree/master/0048-rotate-image) |
 | [1617-stone-game-iv](https://github.com/Kunalkhuteta/leetcode/tree/master/1617-stone-game-iv) |
 | [1642-water-bottles](https://github.com/Kunalkhuteta/leetcode/tree/master/1642-water-bottles) |
 | [2621-find-xor-beauty-of-array](https://github.com/Kunalkhuteta/leetcode/tree/master/2621-find-xor-beauty-of-array) |
@@ -86,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/Kunalkhuteta/leetcode/tree/master/1642-water-bottles) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Kunalkhuteta/leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
